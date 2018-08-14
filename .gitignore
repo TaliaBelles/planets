@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 planets.Rproj
+*.dat
+*.out
+results/
